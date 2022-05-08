@@ -17,4 +17,13 @@ Para facilitar a implementação das cores no projeto, seguem abaixo as variáve
   --color-text-title:#FF5555;
   --color-text-dark:#3D3D3D;
 }
-# web-resources
+
+# Mocks de APIs
+Esse repositório será o endpoint das APIs do front, então é necessário configurar a seguinte URL como base:
+
+https://raw.githubusercontent.com/CrisAndreia/web-resources/tree/main/api
+A partir dessa URL teremos os seguintes recursos:
+
+Redes sociais GET /social-links.json
+Sobre GET /about.json
+Contatos GET /contacts.json
