@@ -5,12 +5,12 @@
     },
     {
         "label": "Linkedin",
-        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/facebook.svg",
+        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/linkedin.svg",
         "link": "https://www.linkedin.com/in/cristiane-andreia-pereira-12a182b0/"
     },
     {
         "label": "WhatsApp",
-        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/whatspp.svg",
+        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/whatsapp.svg",
         "link": "https://wa.me/353872248221"
     }
 ]
