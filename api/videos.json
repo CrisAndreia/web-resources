@@ -1,16 +1,16 @@
 [{
         "title": "Será que meu código é adequado? React.js ou Vue.js?",
-        "thumb": "https://i1.ytimg.com/vi/0m_nZ_p9idk/maxresdefault.jpg",
+        "thumb": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/images/3.png",
         "link": "https://www.youtube.com/watch?v=U6RxX-cEHnM"
     },
     {
         "title": "Pesquisa e Elaboração de Conteúdo, Typescript 4.0 e VueJS 3.0, React Context X Redux",
-        "thumb": "https://i2.ytimg.com/vi/uG64BgrlX7o/maxresdefault.jpg",
+        "thumb": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/images/4.png",
         "link": "https://www.youtube.com/watch?v=EXpct54Vc5A"
     },
     {
         "title": "Chat em tempo real com NodeJS + Socket.io | Diego Fernandes",
-        "thumb": "https://i2.ytimg.com/vi/-2G0zlyGL_4/maxresdefault.jpg",
+        "thumb": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/images/5.png",
         "link": "https://www.youtube.com/watch?v=-jXfKDYJJvo&t=85s"
     }
 ]
