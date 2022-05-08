@@ -1,16 +1,16 @@
 [{
         "label": "Instagram",
-        "icon": "https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/instagram.svg",
+        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/instagram.svg",
         "link": "https://www.instagram.com/cris.arodrigues"
     },
     {
         "label": "Linkedin",
-        "icon": "https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/facebook.svg",
+        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/facebook.svg",
         "link": "https://www.linkedin.com/in/cristiane-andreia-pereira-12a182b0/"
     },
     {
         "label": "WhatsApp",
-        "icon": "https://raw.githubusercontent.com/william-costa/wdev-mock-site-resources/master/assets/icons/twitter.svg",
+        "icon": "https://raw.githubusercontent.com/CrisAndreia/web-resources/main/assets/icons/whatspp.svg",
         "link": "https://wa.me/353872248221"
     }
 ]
